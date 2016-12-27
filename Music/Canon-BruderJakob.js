@@ -9,7 +9,7 @@ input.onButtonPressed(Button.A, () => {
     music.playTone(Note.A4, music.beat(BeatFraction.Quarter))
     music.playTone(Note.F4, music.beat(BeatFraction.Quarter))
     music.playTone(Note.A4, music.beat(BeatFraction.Quarter))
-    music.playTone(Note.B4, music.beat(BeatFraction.Quarter))
+    music.playTone(Note.Bb4, music.beat(BeatFraction.Quarter))
     music.playTone(Note.C5, music.beat(BeatFraction.Half))
     music.playTone(Note.A4, music.beat(BeatFraction.Quarter))
     music.playTone(Note.Bb4, music.beat(BeatFraction.Quarter))
